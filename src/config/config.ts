@@ -10,7 +10,7 @@ const siteConfig = {
     title: 'B.Sc. Economics & Data Science Student | AI & Coding Enthusiast | Problem Solver | Aspiring Entrepreneur',
     image: getAsset('images/prof2.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am here to submit an assingment.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +
@@ -43,7 +43,7 @@ const siteConfig = {
   // Add more entries here as you add more static HTML blog files under public/static_page/
   blogs: [
     {
-      title: 'Your Blog Title',
+      title: 'Raghav Gupta',
       url: getAsset('static_page/project_management_blog.html'), // Replace with your static HTML page
     },
   ],
@@ -51,9 +51,9 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'Christ University',
+      degree: 'Bsc Economics and data science',
+      year: '2025-2029',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },
@@ -88,9 +88,9 @@ const siteConfig = {
   // ✅ Experience section updated
   experience: [
     {
-      title: 'Your Role',
+      title: 'Vibe Coder',
       cardImage: getAsset('images/experience/placeholder.png'),
-      place: 'Your Organization',
+      place: 'Freelancer',
       time: '(MMM YYYY – Present)',
       desp: ['Brief responsibility 1', 'Brief responsibility 2'],
     },
